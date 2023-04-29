@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Lycaon pictus",
+    "breed": "Cyperaceae",
+    "image": "/uploads/dog.jpg",
+    "price": "$10.17",
+    "location": "34 Stephen Junction",
+    "type": "innocent",
+    "gender": "female",
+    "size": "medium",
+    "age": 4
+  },
+  {
+    "name": "Phalaropus fulicarius",
+    "breed": "Cyperaceae",
+    "image": "/uploads/dog.jpg",
+    "price": "$16.62",
+    "location": "3 Corry Trail",
+    "type": "innocent",
+    "gender": "female",
+    "size": "large",
+    "age": 1
+  },
+  {
+    "name": "Bassariscus astutus",
+    "breed": "Valerianaceae",
+    "image": "/uploads/dog.jpg",
+    "price": "$19.42",
+    "location": "4 5th Center",
+    "type": "innocent",
+    "gender": "female",
+    "size": "large",
+    "age": 2
+  },
+  {
+    "name": "Myotis lucifugus",
+    "breed": "Primulaceae",
+    "image": "/uploads/dog.jpg",
+    "price": "$14.39",
+    "location": "05 Di Loreto Way",
+    "type": "qoute",
+    "gender": "male",
+    "size": "small",
+    "age": 3
+  },
+  {
+    "name": "Branta canadensis",
+    "breed": "Rosaceae",
+    "image": "/uploads/dog.jpg",
+    "price": "$11.26",
+    "location": "6605 Dottie Center",
+    "type": "innocent",
+    "gender": "female",
+    "size": "large",
+    "age": 5
+  }
+]
